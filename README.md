@@ -6,3 +6,9 @@
 - Ustvarjanje routov za veliko arkano, palice, meče, pentaklje in kelihe.
 - Povezava backenda s frontendom
 - Ustvarjanje strani za Blog na backendu
+
+
+## Že narejeno:
+
+- Postavitev podatkovne baze
+- Route za velika arkana
