@@ -2,7 +2,7 @@
 
 ### Backend sem naredil v Sequelize-cli in uporabil express-generator. Želim ustvariti podatkovno bazo za ves tekst, ki bo navoljo na frontendu. Tudi slike.
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Postavitev podatkovne baze z Sequelize-cli
+- Ustvarjanje routov za veliko arkano, palice, meče, pentaklje in kelihe.
+- Povezava backenda s frontendom
+- Ustvarjanje strani za Blog na backendu
